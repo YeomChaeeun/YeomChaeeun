@@ -4,6 +4,11 @@
 <p align="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea">&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub">&nbsp
+
 </p>
 
 
