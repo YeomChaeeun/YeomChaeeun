@@ -22,7 +22,7 @@
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeomChaeeun&show_icons=true&theme=dracula) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeomChaeeun&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeomChaeeun&layout=compact&theme=dracula"/>
 
 <!--
 1.header: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
