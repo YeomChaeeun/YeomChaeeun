@@ -21,8 +21,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub">&nbsp
 </p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeomChaeeun&show_icons=true&theme=dracula) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeomChaeeun&layout=compact&theme=dracula"/>
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=YeomChaeeun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YeomChaeeun&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!--
 1.header: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
