@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Hi!%20I'm%20Chaeeun!&fontSize=70&desc=Frontend%20Developer&descSize=30&descAlign=63&descAlignY=65)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeomChaeeun%2F&count_bg=%239958B6&title_bg=%23050505&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeomChaeeun%2F&count_bg=%239958B6&title_bg=%23050505&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaeeun-yeom-88214a118/)](https://www.linkedin.com/in/chaeeun-yeom-88214a118/)
 
 ## 👩‍💻 About Me
-Hello! I'm a passionate Frontend Developer dedicated to improving user experiences and building efficient web applications. 
-I strive to create intuitive and responsive interfaces using modern web technologies and the latest frameworks.
-I'm currently looking for opportunities in the global tech market!
+Hello! I'm a passionate Frontend Developer dedicated to building user-centered web applications and improving user experiences. I continuously follow the latest technology trends and strive to create intuitive, responsive interfaces using modern web technologies and frameworks.
+<!-- I'm currently looking for opportunities in the global tech market! -->
 
 ## 🚀 Skills
 
