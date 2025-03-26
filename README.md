@@ -18,7 +18,7 @@ I'm currently looking for opportunities in the global tech market!
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
 </p>
-
+ 
 ### ⚙️ State Management & Data Fetching
 <p>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">&nbsp
