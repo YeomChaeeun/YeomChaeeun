@@ -6,12 +6,12 @@
 
 ## 👩‍💻 About Me
 
-안녕하세요! 사용자 경험을 고민하는 프론트엔드 개발자 채은입니다 😊
-작은 인터랙션 하나도 놓치지 않으려 노력하고, 코드만큼 UI/UX에도 진심인 개발자예요.
-요즘은 Next.js와 React Native를 공부하며 더 넓은 세계로 나아가는 중입니다 🚀
+안녕하세요! 사용자 경험을 고민하는 프론트엔드 개발자 채은입니다 😊<br />
+작은 인터랙션 하나도 놓치지 않으려 노력하고, 코드만큼 UI/UX에도 진심인 개발자예요.<br />
+요즘은 Next.js와 React Native를 공부하며 더 넓은 세계로 나아가는 중입니다 🚀<br />
 
-Hey there! I'm Chaeeun, a frontend developer who genuinely cares about user experience 😊
-I love turning ideas into smooth, intuitive interfaces — because great UX is just as important as clean code.
+Hey there! I'm Chaeeun, a frontend developer who genuinely cares about user experience 😊<br />
+I love turning ideas into smooth, intuitive interfaces — because great UX is just as important as clean code.<br />
 Currently leveling up with Next.js and React Native! 🚀
 
 ## 🚀 Skills
